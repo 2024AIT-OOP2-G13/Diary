@@ -1,6 +1,10 @@
 from diaries.AbstractDiary import AbstractDiary
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 class NagataniDiary(AbstractDiary):
+=======
+class takayamaDiary(AbstractDiary):
+>>>>>>> Stashed changes
     def get_date(self):
         return "2021-12-09"
     def get_summary(self):
