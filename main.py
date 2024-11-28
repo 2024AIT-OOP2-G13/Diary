@@ -2,7 +2,7 @@ from diaries.DiarySample import DiarySample
 from diaries.TanakaDiary import TanakaDiary
 from diaries.K23124 import K23124Diary
 from diaries.ShibayamaDiary import ShibayamaDiary
-from diaries.SuzukiDiary import DiarySample
+from diaries.SuzukiDiary import SuzukiDiary
 # ↓のリストには、メンバーの各日記が格納されます。
 
 diaries = [DiarySample(), 
